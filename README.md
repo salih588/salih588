@@ -1,5 +1,7 @@
 # Hi there, I'm Muhammed Salih K! 👋
 
+### Mobile App Developer | Flutter and Android developer
+
 <!--
 **salih588/salih588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
