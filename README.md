@@ -12,6 +12,8 @@ I'm a passionate mobile app developer with experience in building native and cro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-salih-k-738235148/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/MuhammedSalihk3?t=lEFN5O1PPHs1N9t4NuuO0Q&s=08/)
 
+![Salih Activity Graph](https://activity-graph.herokuapp.com/graph?username=salih588&theme=react-dark)
+
 <!--
 **salih588/salih588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
